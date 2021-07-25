@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development",
+    "description": "provide completely customized web development for your organization’s different web requirements. Our Team specializes in custom web development projects.",
+    "img": "https://res.cloudinary.com/dr74xjdtc/image/upload/v1626781087/wdesign_dpf6ql.png"
+  },
+  {
+    "id": 2,
+    "title": "Software Development",
+    "description": "is a global Software Development company we already 99+ serving clients Bangladesh.",
+    "img": "https://res.cloudinary.com/dr74xjdtc/image/upload/v1626781368/computer_ctlbzm.png"
+  },
+  {
+    "id": 3,
+    "title": "App Development",
+    "description": "We already develop some mobile apps, our mobile apps are designed with .",
+    "img": "https://res.cloudinary.com/dr74xjdtc/image/upload/v1626781569/app_a8bwjk.png"
+  }
+]

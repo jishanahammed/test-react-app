@@ -1,0 +1,53 @@
+h4 {
+  text-align: center;
+}
+.App {
+  text-align: center;
+}
+.features .card img {
+  height: 300px;
+  width: 100%;
+}
+.carousel-inner img {
+  height: 500px;
+  width: 100%;
+}
+.features .titel-header h3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.service {
+  border: 1px solid #eee;
+  background-color: #fff;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+  height: 300px;
+  width: 100%;
+  transition: 0.3s ease-in-out;
+  margin-bottom: 20px;
+}
+.service-icon {
+  text-align: center;
+}
+.service-icon img {
+  height: 87px;
+  width: 87px;
+  padding: 15px;
+}
+.divder-section {
+  margin-top: 80px;
+}
+.service-info {
+  text-align: center;
+  padding: 15px;
+}
+.service-info h3 {
+  text-align: center;
+}
+.service-info p {
+  text-align: center;
+}
+.service-titel h2 {
+  text-align: center;
+  margin-bottom: 50px;
+}
